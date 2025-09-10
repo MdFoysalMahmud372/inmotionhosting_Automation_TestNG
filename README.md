@@ -54,5 +54,7 @@ allure serve allure-results
 
 ![suites](https://user-images.githubusercontent.com/55280106/185918539-c40ea3e9-dd3f-4e56-b223-adcf80fcbf25.png)
 
-**Md. Foysal Mahmud** 
-**Sotware Quality Assurance Engineer**
+## Author & Tester
+
+**Md. Foysal Mahmud**  
+Software Qaulity Assurance Engineer
